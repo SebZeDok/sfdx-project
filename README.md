@@ -4,7 +4,6 @@ Note from Refactor branch
 
 ## Dev, Build and Test
 
-
 ## Resources
 
 
