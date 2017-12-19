@@ -3,7 +3,6 @@ Documentation about Sample DX Project
 
 ## Dev, Build and Test
 
-
 ## Resources
 
 
@@ -12,4 +11,5 @@ Documentation about Sample DX Project
 
 ## Issues
 
+## JIRA Doc
 
